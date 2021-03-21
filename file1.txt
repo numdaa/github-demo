@@ -1,5 +1,7 @@
 file made on github
 
+		고치기
+
           처음 고쳐봅시다
           
           브랜치에서 고쳐보세
